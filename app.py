@@ -5,12 +5,12 @@ todo = Flask(__name__)
 students=[
     {
         "id":1,
-        "name":"yesh",
+        "name":"hari",
         "age":20
     },
     {
         "id":2,
-        "name":"yesh",
+        "name":"hari",
         "age":25
     },
     {
